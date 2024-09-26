@@ -6,7 +6,7 @@ Integrantes:
 
 •⁠ Gabriel Masi
 
-•⁠ Guilherme Covaleki
+•⁠ Mateus André
 
 •⁠ Lucas Bernardino
 

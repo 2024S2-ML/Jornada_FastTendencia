@@ -10,6 +10,9 @@ Integrantes:
 
 •⁠ Lucas Bernardino
 
+LINK ARTIGO: https://docs.google.com/document/d/1phzldeccoutyL1GHtonB9m3eEKw_Qif4lE9OXBCpjOY/edit?usp=sharing
+
+
 Tendência de dados
 •⁠  ⁠normalizar os dados recebidos
 
